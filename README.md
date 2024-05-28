@@ -20,10 +20,4 @@ Main Dependencies:
 
 [flutter_mobile_vision_2](https://pub.dev/packages/flutter_mobile_vision_2)
 
-
-
-------------------------------------------------------------------------------------
-
-![Alt text](/Screenshots/screenshots_merged.png?raw=true "Screenshots")
-
 -------------------------------------------------------------------------------------
